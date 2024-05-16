@@ -23,3 +23,8 @@ nav a{
     font-size: 22px;
     text-decoration: none;
 }
+
+nave a:hover{
+    color: #c78c19;
+    text-decoration: underline;
+}
