@@ -19,4 +19,7 @@ nav{
 nav a{
     text-transform: uppercase;
     color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
 }
